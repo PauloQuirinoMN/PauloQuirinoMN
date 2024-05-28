@@ -7,9 +7,35 @@ Olá, Sou Paulo Quirino, moro em Fortaleza – Ce, tenho 35 anos, convivo a nove
 - 🌱 Neste momento estou aprendendo Inteface Gráfica usando Pyhton
 - 💬 Adoro conversar sobre ciências e tecnologias 
 
-## :mortar_board: :man_scientist: :microscope: :game_die:
+# :mortar_board: :man_scientist: :microscope: :game_die:
 
-### Perfis sociais
+### PERFIS SOCIAIS
 [![Kaggle](https://img.shields.io/badge/Kaggle-%23FF6B00.svg?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/pauloquirinocd)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/feed/)
 [![Instagram](https://img.shields.io/badge/Instagram-Profile-orange?style=flat&logo=instagram)](https://www.instagram.com/pauloqneto/)
+
+
+
+### Acesse meu portifólio aqui [aqui](embreve)
+
+
+## PROJETOS :
+
+### ACADÊMICO :
+(**Onde foram desenvolvdos com propósito de empregar o conhecimento teórico**):
+
+#### Modelo peditivo Projeto 1º graduação: [PrevisaoSalario](embreve)
+#### Calculadora desenvolvida em python com flet [Calculadora](embreve)
+#### Jogo da forca em python com flet [JogoForca](embreve)
+#### App de ficha de treino python com flet [AppTreino](embreve)
+
+
+### PROFISSIONAL :
+(**Onde foram desenvolvdos com propósito funcional é prático no mundo real**)
+#### Sistema completo de ponto de Venda python, MySQL : [](embreve)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PauloQuirinoMN&show_icons=true&theme=radical)
+
+
+
