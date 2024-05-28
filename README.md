@@ -27,7 +27,6 @@ Olá, Sou Paulo Quirino, moro em Fortaleza – Ce, tenho 35 anos, convivo a nove
 
 #### Modelo peditivo Projeto 1º graduação: [PrevisaoSalario](https://github.com/PauloQuirinoMN/ML-Salary-)
 #### Calculadora desenvolvida em python com flet [Calculadora](https://github.com/PauloQuirinoMN/CalculadoraFlet)
-#### Jogo da forca em python com flet [JogoForca](embreve)
 #### App de ficha de treino python com flet [AppTreino](embreve)
 
 
