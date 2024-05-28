@@ -5,6 +5,7 @@ Olá, Sou Paulo Quirino, moro em Fortaleza – Ce, tenho 35 anos, convivo a nove
 
 - 🔭 Atualamente estou desenvolvendo um sistema de ponto de vendas.
 - 🌱 Neste momento estou aprendendo Inteface Gráfica usando Pyhton
+- também estou aprendendo Inglês (Fortaleza Bilíngue)
 - 💬 Adoro conversar sobre ciências e tecnologias 
 
 # :mortar_board: :man_scientist: :microscope: :game_die:
@@ -22,7 +23,7 @@ Olá, Sou Paulo Quirino, moro em Fortaleza – Ce, tenho 35 anos, convivo a nove
 ## PROJETOS :
 
 ### ACADÊMICO :
-(**Onde foram desenvolvdos com propósito de empregar o conhecimento teórico**):
+(**Onde foram desenvolvdos com propósito de empregar o conhecimento teórico**)
 
 #### Modelo peditivo Projeto 1º graduação: [PrevisaoSalario](embreve)
 #### Calculadora desenvolvida em python com flet [Calculadora](embreve)
