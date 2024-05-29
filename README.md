@@ -17,13 +17,13 @@ Olá, Sou Paulo Quirino, moro em Fortaleza – Ce, tenho 35 anos, convivo a nove
 
 
 
-### Acesse meu portifólio aqui [aqui](embreve)
+### Acesse meu portifólio aqui [EmBreve](embreve)
 
 
 ## PROJETOS :
 
 ### ACADÊMICO :
-(**Onde foram desenvolvdos com propósito de empregar o conhecimento teórico**)
+(**Projetos desenvolvidos com propósito de empregar o conhecimento teórico**)
 
 #### Modelo peditivo Projeto 1º graduação: [PrevisaoSalario](https://github.com/PauloQuirinoMN/ML-Salary-)
 #### Calculadora desenvolvida em python com flet [Calculadora](https://github.com/PauloQuirinoMN/CalculadoraFlet)
@@ -31,8 +31,8 @@ Olá, Sou Paulo Quirino, moro em Fortaleza – Ce, tenho 35 anos, convivo a nove
 
 
 ### PROFISSIONAL :
-(**Onde foram desenvolvdos com propósito funcional é prático no mundo real**)
-#### Sistema completo de ponto de Venda python, MySQL : [](embreve)
+(**Projetos desenvolvidos com propósito funcional é prático no mundo real**)
+#### Sistema completo de ponto de Venda python, MySQL : [EmBreve](embreve)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PauloQuirinoMN&show_icons=true&theme=radical)
