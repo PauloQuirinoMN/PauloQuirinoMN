@@ -1,11 +1,25 @@
-## Um pouquinho sobre mim...
+##Sobre Mim
+Olá, sou Paulo Quirino, um profissional apaixonado por tecnologia e análise de dados, residente em Fortaleza, CE. Sou formado em Big Data e Inteligência Analítica e atualmente estou iniciando minha jornada como Cientista de Dados. Minha trajetória acadêmica e profissional reflete meu interesse em transformar dados em insights estratégicos, utilizando ferramentas modernas e metodologias eficazes.
 
-Olá, Sou Paulo Quirino, moro em Fortaleza – Ce, tenho 35 anos, convivo a nove anos com meu companheiro Charles Nunes. sempre gostei de tecnologias, mas só conheci melhor a Ciência de Dados a pouco tempo em função dos lockdowns durante a pandemia de covid-19, antes cursava Engenharia de Energias pela Unilab, na cidade de Acarape-Ce, atualmente Formado em Big Data e Inteligência Analítica dando os primeiros passos como Cientista de Dados.
+##Áreas de Interesse e Alinhamento Profissional
+Ciência de Dados e Análise de Dados: Conhecimento teórico em aplicação de técnicas estatísticas, machine learning e visualização de dados para resolver problemas complexos e orientar decisões baseadas em dados.
+Desenvolvimento Full Stack: Atualmente, desenvolvo soluções completas em Python, integrando front-end (com Flet) e banco de dados (SQLite), com foco em aplicações práticas como sistemas financeiros.
+Análise e Visualização de Dados: Estou trabalhando no desenvolvimento de um sistema de análise financeira que incluirá integração com Power BI, visualizações gráficas avançadas e maior autonomia e usabilidade para os usuários.
+##Projetos
+Desenvolvimento de Aplicativos Financeiros: Criei um aplicativo financeiro com interface gráfica para registro e categorização de transações financeiras (entradas e saídas), com armazenamento em Excel e cálculos para análises iniciais. Em breve, será incorporado um módulo de análise com Power BI, além de visualizações gráficas e maior automação.
+Habilidades Técnicas
+Linguagens: Python (Pandas, NumPy, Matplotlib)
+Banco de Dados: MYSql, SQLite, Excel
+Visualização de Dados: Flet, Power BI (em implementação)
+Metodologias: Análise exploratória de dados (EDA), storytelling com dados
+Ferramentas de Desenvolvimento: Git, GitHub, IDEs como VS Code
+##Objetivo Profissional
+Estou em busca de oportunidades que me permitam contribuir com minha paixão por dados e tecnologia para gerar valor aos negócios e enfrentar desafios analíticos. Estou sempre buscando aprendizado contínuo, especialmente em áreas como machine learning e engenharia de dados.
 
 
-- 🔭 Atualamente estou desenvolvendo um sistema de ponto de vendas.
-- 🌱 Neste momento estou aprendendo Inteface Gráfica usando Pyhton
-- também estou aprendendo Inglês (Fortaleza Bilíngue)
+- 🔭 
+- 🌱 Neste momento estou aprendendo modulariozação, storytelling com dados.
+- Meu Inglês é básico (Fortaleza Bilíngue)
 - 💬 Adoro conversar sobre ciências e tecnologias 
 
 # :mortar_board: :man_scientist: :microscope: :game_die:
@@ -19,19 +33,6 @@ Olá, Sou Paulo Quirino, moro em Fortaleza – Ce, tenho 35 anos, convivo a nove
 
 ### Acesse meu portifólio aqui [EmBreve](embreve)
 
-
-## PROJETOS :
-
-### ACADÊMICO :
-(**Projetos desenvolvidos com propósito de empregar o conhecimento teórico**)
-
-#### Modelo peditivo Projeto 1º graduação: [PrevisaoSalario](https://github.com/PauloQuirinoMN/ML-Salary-)
-#### Calculadora desenvolvida em python com flet [Calculadora](https://github.com/PauloQuirinoMN/CalculadoraFlet)
-
-
-### PROFISSIONAL :
-(**Projetos desenvolvidos com propósito funcional é prático no mundo real**)
-#### Sistema completo de ponto de Venda python, MySQL : [EmBreve](embreve)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PauloQuirinoMN&show_icons=true&theme=radical)
