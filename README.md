@@ -7,14 +7,17 @@ Olá, sou Paulo Quirino, um profissional apaixonado por tecnologia e análise de
 --
 
 Ciência de Dados e Análise de Dados: Conhecimento teórico em aplicação de técnicas estatísticas, machine learning e visualização de dados para resolver problemas complexos e orientar decisões baseadas em dados.
+
 Desenvolvimento Full Stack: Atualmente, desenvolvo soluções completas em Python, integrando front-end (com Flet) e banco de dados (SQLite), com foco em aplicações práticas como sistemas financeiros.
+
 Análise e Visualização de Dados: Estou trabalhando no desenvolvimento de um sistema de análise financeira que incluirá integração com Power BI, visualizações gráficas avançadas e maior autonomia e usabilidade para os usuários.
 
 Projetos
 --
 
 Desenvolvimento de Aplicativos Financeiros: Criei um aplicativo financeiro com interface gráfica para registro e categorização de transações financeiras (entradas e saídas), com armazenamento em Excel e cálculos para análises iniciais. Em breve, será incorporado um módulo de análise com Power BI, além de visualizações gráficas e maior automação.
-Habilidades Técnicas
+
+**Habilidades** **Técnicas**
 
 Linguagens: Python (Pandas, NumPy, Matplotlib)
 
