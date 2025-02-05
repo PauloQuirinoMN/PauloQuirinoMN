@@ -35,7 +35,7 @@ Estou em busca de oportunidades que me permitam contribuir com minha paixão por
 
 
 - 🔭 # Acesse meu portifólio aqui [EmBreve](embreve)
-- 🌱 Neste momento estou aprendendo modulariozação, storytelling com dados.
+- 🌱 Neste momento estou aprendendo Programação Orientada a Objetos, Storytelling com Dados.
 - Meu Inglês é básico (Fortaleza Bilíngue)
 - 💬 Adoro conversar sobre ciências e tecnologias 
 
