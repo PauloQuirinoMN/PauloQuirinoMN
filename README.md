@@ -15,7 +15,12 @@ Análise e Visualização de Dados: Estou trabalhando no desenvolvimento de um s
 Projetos
 --
 
-Desenvolvimento de Aplicativos Financeiros: Criei um aplicativo financeiro com interface gráfica para registro e categorização de transações financeiras (entradas e saídas), com armazenamento em Excel e cálculos para análises iniciais. Em breve, será incorporado um módulo de análise com Power BI, além de visualizações gráficas e maior automação.
+*Desenvolvimento de Aplicativos Financeiros: Criei um aplicativo financeiro com interface gráfica para registro e categorização de transações financeiras (entradas e saídas), com armazenamento em Excel e cálculos para análises iniciais. Em breve, será incorporado um módulo de análise com Power BI, além de visualizações gráficas e maior automação.
+
+*Sistema de Recomendação e Cross-Selling para Distribuidoras
+- Recomendação inteligente de substitutos
+- Identificação de combinações de produtos
+- Desenvolvido com Python e algoritmos de ML
 
 **Habilidades** **Técnicas**
 
